@@ -1,0 +1,12 @@
+{
+  "name": "image-clip",
+  "version": "0.0.0",
+  "description": "Crop out transparent pixels from an image",
+  "license": "MIT",
+  "author": "Brandon Semilla <semibran@gmail.com>",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semibran/image-clip.git"
+  }
+}
